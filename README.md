@@ -97,6 +97,10 @@ GitHub Actions: `.github/workflows/security-scan.yml` runs on **ubuntu-latest**,
 
 Showcases (tool on local file and public url + website wiki showcase)
 
+wiki git link : https://github.com/ASigma213/ASigma213.github.io.git
+
+(its supposed to be runned locally cause i got rate limited for 56.028 years from my hosting site and im asking for a check)
+
 https://github.com/user-attachments/assets/a8ab7268-9412-4fc8-94be-53298351aeef
 
 https://github.com/user-attachments/assets/0c756d8e-1c18-4621-babd-23bc114ec2a3
