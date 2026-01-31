@@ -31,6 +31,9 @@ Cross-platform (Linux, Windows, macOS) security scanning: SQL injection scanning
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASigma213&layout=compact&theme=gruvbox&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
 </p>
 
+
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
@@ -91,3 +94,6 @@ for v in scanner.scan_path(Path("src")):
 ## CI
 
 GitHub Actions: `.github/workflows/security-scan.yml` runs on **ubuntu-latest**, **windows-latest**, and **macos-latest** on push/PR.
+
+
+https://github.com/user-attachments/assets/a8ab7268-9412-4fc8-94be-53298351aeef
