@@ -95,5 +95,8 @@ for v in scanner.scan_path(Path("src")):
 
 GitHub Actions: `.github/workflows/security-scan.yml` runs on **ubuntu-latest**, **windows-latest**, and **macos-latest** on push/PR.
 
+Showcases (tool on local file and public url + website wiki showcase)
 
 https://github.com/user-attachments/assets/a8ab7268-9412-4fc8-94be-53298351aeef
+
+https://github.com/user-attachments/assets/0c756d8e-1c18-4621-babd-23bc114ec2a3
